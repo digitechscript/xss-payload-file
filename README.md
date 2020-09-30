@@ -1,0 +1,2 @@
+# xss-payload-file
+payload
